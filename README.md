@@ -6,15 +6,14 @@
 
 <b>Link to Webpage:</b>
 
- <a href="https://deepak0509.github.io/WeatherApi/">Website Link</a>
+ <a href="https://nuthanreddy45.github.io/Weather-app/">Website Link</a>
 
 <hr>
 
 <b>Milestones Achieved</b>
 
-1. Fetching Latitude and Longitude of given location through API call.
-2. Fetching weather of given location through API call.
-3. Fetching weather for past days and upcoming weather forecast for a given location.
+1. Fetching weather of given location through API call.
+2. Fetching weather for present day  t for a given location.
 
 <hr>
 
@@ -28,9 +27,9 @@
 
 <b>Description</b>
 
-The website can give the user the current weather in his/her location, information like temperature, weather description of the day. It also provides weather information
-of the upcoming 7 days and past 5 days. The user can also search for any city and get the current weather and all the above mentioned information for the searched city as well.
-The user will also get to know of the latitude and longitude of his/her location or any city.
+The website can give the user the current weather in his/her location, information like temperature, weather description of the day. 
+The user can also search for any city and get the current weather and all the above mentioned information for the searched city as well.
+
 
 <hr>
 
